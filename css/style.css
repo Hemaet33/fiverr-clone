@@ -589,7 +589,7 @@ footer .footer-bottom .footer-bottom-right{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 40px;
+  gap: 60px;
 }
 footer .footer-bottom .footer-bottom-right ul{
   display: flex;
@@ -601,7 +601,10 @@ footer .footer-bottom .footer-bottom-right ul{
   margin: 0;
 }
 footer .footer-bottom .footer-bottom-right ul li a{
-  font-size: 20px;
+  font-size: 22px;
   text-decoration: none;
   color: #74767E;
+}
+footer .footer-bottom .footer-bottom-right .footer-bottom-right-rh ul li a{
+  font-size: 18px;
 }
